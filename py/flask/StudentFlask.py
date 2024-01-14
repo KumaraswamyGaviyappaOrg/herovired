@@ -1,5 +1,5 @@
 #!/bin/python3
-from flask import Flask, request, jsonify, Response
+from flask import Flask, request, jsonify
 
 students = [{"name": "Kumar", 
             "class": 12, 
