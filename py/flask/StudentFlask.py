@@ -1,6 +1,7 @@
 #!/bin/python3
 from flask import Flask, request, jsonify
 
+#creatring a flask app
 students = [{"name": "Kumar", 
             "class": 12, 
             "grade": "A"} ]
